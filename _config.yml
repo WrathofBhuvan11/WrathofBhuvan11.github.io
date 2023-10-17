@@ -1,0 +1,15 @@
+# _config.yml
+
+# Site settings
+title: Your Site Title
+description: Your site's description
+url: https://yourusername.github.io # Your GitHub Pages URL
+baseurl: # If your site is hosted in a subdirectory (e.g., /project), put it here
+
+# Theme settings
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-feed
+
+# Optional: Customize the theme further
+# For more customization options, refer to the theme's documentation: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
