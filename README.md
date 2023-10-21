@@ -3,7 +3,7 @@
 
 ### Hi, I'm Bhuvanesh S K.
 <details>
-<summary> <font size="8">__Achievements and milestones during Bachelor's Degree:-__</font></summary>
+**<summary> Achievements and milestones during Bachelor's Degree:-</summary>**
 
 * Finished my [Bachelor's Degree in Electronics and Communication Engineering from NMAMIT Nitte University (2016-2020)](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/blob/main/documents/bachelors%20of%20engineering%20main%20certificate%20.pdf)
 * Gained expertise in concepts on Signals and Systems, VLSI & Micro-electronics, Hardware Description Language (HDL), and Deep Learning.
