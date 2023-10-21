@@ -12,5 +12,4 @@
 
 
 
-
 #### Note: All the phrases with links are pointing at scanned certificates or web page backing the claims made 
