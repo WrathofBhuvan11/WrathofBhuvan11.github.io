@@ -19,4 +19,4 @@
 
 </details>
 
-#### Note: All the phrases with links are pointing at scanned certificates or web page backing the claims made 
+#### Note: All the phrases with links are pointing at scanned certificates or webpage backing the claims made. Feel free to examine [them](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/tree/main/documents).
