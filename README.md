@@ -4,7 +4,7 @@
 ### Hi, I'm Bhuvanesh S K.
 ### Achievements and milestones during Bachelor's Degree:
 <details>
-<summary> All these tasks or achievements are during my Bachelors Degree (2016-2020), Drop down</summary>
+<summary> All these tasks or achievements are during my Bachelors Degree (2016-2020)</summary>
   
 <ul>
 <li> Finished my [Bachelor's Degree in Electronics and Communication Engineering from NMAMIT Nitte University (2016-2020)] (https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/blob/main/documents/bachelors%20of%20engineering%20main%20certificate%20.pdf). </li>
