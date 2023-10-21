@@ -3,6 +3,9 @@
 
 ### Hi, I'm Bhuvanesh S K.
 #### Achievements and milestones during Bachelor's Degree:-
+<details>
+<summary>Click to expand/collapse</summary>
+
 * Finished my [Bachelor's Degree in Electronics and Communication Engineering from NMAMIT Nitte University (2016-2020)](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/blob/main/documents/bachelors%20of%20engineering%20main%20certificate%20.pdf)
 * Gained expertise in concepts on Signals and Systems, VLSI & Micro-electronics, Hardware Description Language (HDL), and Deep Learning.
 * Worked on [STUDSAT Program](https://www.isro.gov.in/Stud_sat.html) as part of the Final year project which was about [Software Development for Command and Data Handling (C & DH) satellite subsystems](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/blob/main/documents/STUDSAT-II%20final%20Report.pdf).
@@ -11,5 +14,6 @@
 * Participated in the [final round of the Smart India Hackathon](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/blob/main/documents/Smart%20India%20Hackathon%20DAE.pdf). The problem statement was Brain 3D MRI Image segmentation by the Department of Atomic Energy (DAE), where implementation of multiple Deep neural net architectures to segment the 3D MRI brain images for cancer cells or tumors were done and conclude which is the best architecture.
 
 
+</details>
 
 #### Note: All the phrases with links are pointing at scanned certificates or web page backing the claims made 
