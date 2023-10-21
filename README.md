@@ -6,5 +6,6 @@
 * Finished my [Bachelor's Degree in Electronics and Communication Engineering from NMAMIT Nitte University (2016-2020)](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/blob/main/documents/bachelors%20of%20engineering%20main%20certificate%20.pdf)
 * Gained expertise in concepts on Signals and Systems, VLSI & Micro-electronics, Hardware Description Language (HDL), and Deep Learning.
 * Worked on [STUDSAT Program](https://www.isro.gov.in/Stud_sat.html) as part of the Final year project which was about [Software Development for Command and Data Handling (C & DH) satellite subsystems](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/blob/main/documents/STUDSAT-II%20final%20Report.pdf).
+* Another major project was in the field of Deep learning for Medical Data Analysis, worked on it as part of a [Research Intern at Inspirante Technologies Pvt Ltd](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/blob/main/documents/Inspirante%20Certificate%20letter%20.png).
 
 
