@@ -8,6 +8,3 @@
 * Worked on [STUDSAT Program](https://www.isro.gov.in/Stud_sat.html) as part of the Final year project which was about [Software Development for Command and Data Handling (C & DH) satellite subsystems](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/blob/main/documents/STUDSAT-II%20final%20Report.pdf).
 
 
-
-![image](https://github.com/WrathofBhuvan11/WrathofBhuvan11.github.io/assets/36232037/39d7af71-4042-47e6-a803-5c8c8dd85f89)
-
