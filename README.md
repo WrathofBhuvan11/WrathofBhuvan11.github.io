@@ -2,21 +2,6 @@
 
 ### Hi, I'm Bhuvanesh S K.
 
-<div style="display: flex;">
-  <a href="#section-1" style="flex: 1; text-align: center; padding: 10px; background-color: #f0f0f0;">Tab 1</a>
-  <a href="#section-2" style="flex: 1; text-align: center; padding: 10px; background-color: #f0f0f0;">Tab 2</a>
-  <a href="#section-3" style="flex: 1; text-align: center; padding: 10px; background-color: #f0f0f0;">Tab 3</a>
-</div>
-
-## Section 1
-Content for Section 1
-
-## Section 2
-Content for Section 2
-
-## Section 3
-Content for Section 3
-
 ### Achievements and milestones during Bachelor's Degree:
 <details>
 <summary> All these tasks or achievements are during my Bachelors Degree (2016-2020)</summary>
