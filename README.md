@@ -2,6 +2,21 @@
 
 ### Hi, I'm Bhuvanesh S K.
 
+| Tab 1 | Tab 2 | Tab 3 |
+|-------|-------|-------|
+| [Section 1](#section-1) | [Section 2](#section-2) | [Section 3](#section-3) |
+Add content to your sections, using anchor links to facilitate navigation:
+markdown
+Copy code
+## Section 1
+Content for Section 1
+
+## Section 2
+Content for Section 2
+
+## Section 3
+Content for Section 3
+
 ### Achievements and milestones during Bachelor's Degree:
 <details>
 <summary> All these tasks or achievements are during my Bachelors Degree (2016-2020)</summary>
